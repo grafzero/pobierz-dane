@@ -1,0 +1,14 @@
+
+#downloadData{
+	margin-left: 50px;
+	margin-top: 40px;
+	border: 1px solid transparent;
+	height: 30px;
+	padding-left: 15px;
+	padding-right: 15px;
+	line-height: 30px;
+}
+
+#devData{
+	margin-top: 40px;
+}
